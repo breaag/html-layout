@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 25px;
+}
+
+.container-one {
+    width: 100%;
+    border: 5px solid black;
+    padding: 10px;
+    box-sizing: border-box ;
+}
+
+.square-one {
+    height: 150px;
+    width: 50px;
+    background-color: blueviolet;
+    display: inline-block;
+}
+
+.square-two {
+    height: 200px;
+    width: 300px;
+    background-color: green;
+    margin: 0 50px;
+    
+}
+
+.dot {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: lightblue;
+    display: inline-block;
+    
+}
+.container-two {
+    width: 90%;
+    border: 5px dotted black;
+    padding: 50px;
+    margin: 40px;
+}
+
+.container-three {
+    width: 100%;
+    border: 1.5px solid #cccccc;
+
+}
+
+.container-three h1{
+    Width: 100%;
+    color: darkblue;
+    text-align: center;
+    letter-spacing: 5px;
+    font-display: inline;;
+}
